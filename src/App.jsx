@@ -1,5 +1,5 @@
 import React from "react";
-import { Router } from "./routing";
+
 
 //utilizar esse mockup como exemplo
 
@@ -19,7 +19,8 @@ const db = [
 function App() {
   return (
     <div className="App" >
-      <Router />
+
+
     </div>
   );
 }
